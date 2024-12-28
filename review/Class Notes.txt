@@ -1,0 +1,76 @@
+Week01 Review
+	
+	Topics:
+		Core JavaScript
+
+		Asynchronious Programming:
+				Promises
+				Async & Await
+
+		AI Tools:
+			Perplexity
+			Tabnine
+
+
+in Java:
+	int variableName;
+
+
+in JavaScript:
+	
+	let variableName;
+
+
+
+Promoses: Future value/error (50/50)
+		Represents a vlaue that will be available either now, or in future, or never.
+
+
+========================================
+
+Task01:
+	Makes a promise to return the value
+	Step1
+	Step2
+	Step3
+	Step4
+	return the promised value
+
+
+Task02:
+	Step1
+	Step2
+	Step3 (need the value of task01 is returning) ==> await for the promised value
+	Step4
+
+
+Task03:
+	Step1
+	Step2
+	Step3
+	Step4 (need the value of task01 is returning)  ==> await for the promised value
+
+
+Task04:
+	Step1
+	Step2 (need the value of task01 is returning)  ==> await for the promised value
+	Step3
+	Step4
+
+================================================
+
+
+Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+
+For example, the square matrix  is shown below:
+        1 2 3
+        4 5 6
+        9 8 9
+
+    Output:
+        The absolute difference is: 2
+
+
+
+
+
