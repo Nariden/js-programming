@@ -57,3 +57,5 @@ console.log(result);
 
 let x = addNumbers(10, 20, 30);
 console.log(x);
+
+console.log("Adding comments to the code in ordet to see that is commited in local");
